@@ -1,0 +1,327 @@
+.headdiv {width: 100%;
+    height: 155vh;
+    background-color: lightgrey;
+    }
+    
+    .nameandlogo {width: 100%;
+    height: 20vh;
+    background-color: lightgrey;
+    }
+    
+    .slidshowcont {width: 97%;
+    height: 70vh;
+    margin: auto;
+    position: relative;
+    }
+    
+    .logo {font-size: 80px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: gold;
+    font-weight: 900;
+    }
+    
+    .name {font-size: 50px;
+        color: white;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 5px;
+    }
+    
+    .slogan {font-size: 25px;
+    margin-left: 175px;
+    
+    }
+    
+    
+    .slideshow1 {width: 100%;
+    height: 70vh;
+    }
+    
+    
+    .slideshow2 {width: 100%;
+    height: 70vh;
+    display: none;
+    display: none;
+    }
+    
+    
+    .slideshow3 {width: 100%;
+    height: 70vh;
+    display: none;
+    }
+    
+    
+    .slideshow4 {width: 100%;
+    height: 70vh;
+    display: none;
+    }
+    
+    .slideshow1 img, .slideshow2 img, .slideshow3 img, .slideshow4 img {width: 100%;
+    height: 70vh;
+    }
+    
+    .caption {position: absolute;
+    background-color: lightgrey;
+    width: 40%;
+    height: 15vh;
+    opacity: 0.5;
+    }
+    
+    .firstcap {font-size: 40px;
+    margin-left: 15px;
+    }
+    
+    .secondcap {font-size: 30px;
+    margin-left: 15px;
+    }
+    
+    .dotcont {width: 150px;
+    height: 5vh;
+    background-color: rgb(46, 45, 45);
+    position: absolute;
+    top: 90%;
+    right: 3%;
+    display: flex;
+    justify-content: center;
+    }
+    
+    .dot1 {width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: gold;
+    margin-right: 5px;
+    cursor: pointer;
+    }
+    
+    .dot2 {width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 5px;
+    cursor: pointer;
+    }
+    
+    .dot3 {width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 5px;
+    cursor: pointer;
+    }
+    
+    .dot4 {width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 5px;
+    cursor: pointer;
+    }
+    
+    .dot1:hover, .dot2:hover, .dot3:hover, .dot4:hover {background-color: gold; opacity: 0.5;}
+    
+    
+    
+    
+    .companycore {width: 100%;
+    height: 65vh;
+    background-color: grey;
+    display: flex;
+    }
+    
+    .prop {width: 25%;
+    height: 50vh;
+    margin-left: 30px;
+    margin-top: 10vh;
+    }
+    
+    
+    .proppic img {width: 80px;
+    height: 80px;
+    margin-left: 20px;
+    }
+    
+    .prophead {color: white;
+    margin-left: 20px;
+    font-size: 30px;
+    }
+    
+    .propword p {color: white;
+    font-size: 15px;
+    word-spacing: 3px;
+    }
+    
+    .navdiv {width: 100%;
+    height: 7vh;
+    background-color: rgb(36, 35, 35);
+    margin: auto;
+    }
+    
+    /* .navdiv nav {width: 100%;
+    height: 7vh;
+    } */
+    
+    .navbtn {width: 16.2%;
+    height: 7vh;
+    border-radius: 0px;
+    background-color: transparent;
+    border: none;
+    }
+    
+    .navbtn a {width: 100%;
+    height: 6.5vh;
+    color: white;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    
+    }
+    
+    .navbtn:visited {background-color: gold;}
+    .navbtn:hover {background-color: gold;}
+    
+    
+    
+    .seconddiv {width: 100%;
+    height: 120vh;
+    background-color: lightgrey;
+    }
+    
+    .first {width: 100%;
+     height: 50vh;   
+     display: flex;
+    }
+    
+    .someword {width: 70%;
+        height: 50vh;
+    margin-right: 70px;
+    }
+    
+    
+    .testy {width: 30%;
+    height: 50vh;
+    }
+    
+    .somewordone {font-size: 25px;
+        font-weight: 100;
+        color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .somewordtwo {font-size: 25px;
+    font-weight: 200;
+    color: black;
+    }
+    
+    .someword p {text-align: left;
+    font-size: 19px;
+    }
+    
+    .someword p img {width: 50px;
+    height: 50px;
+    float: left;
+    }
+    
+    .second {width: 100%;
+    height: 70vh;
+    display: flex;
+    }
+    
+    .service, .about, .special {width: 30%;
+    height: 65vh;
+    border: none;
+    margin-left: 30px;
+    }
+    
+    .secondimg {max-width: 100%;
+    max-height: 30vh;
+    }
+    
+    .secondimg img {width: 100%;
+    height: 30vh;
+    }
+    .serviceul, .specialul {font-size: 16px;
+    list-style: square;
+    text-align: left;
+    }
+    
+    .serviceul li {margin-top: 10px;
+    
+    }
+    
+    .secondword p {font-size: 16px;
+    text-align: left;
+    }
+    
+    .specialul  a {font-size: 17px;
+        color: gold;
+    text-decoration: none;}
+    
+    .specialul li {margin-top: 15px;}
+    
+    
+    .contactfoot {width: 100%;
+    height: 50vh;
+    background-color: lightgrey;
+    }
+    
+    .contact {width: 100%;
+    height: 7vh;
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    .contactme, .contactme1 {width: 23%;
+    height: 7vh;
+    border-right: 1px solid white;
+    }
+    
+    #contactlogo {font-size: 30px;
+    color: white;
+    margin-left: 70px;
+    margin-top: 7px;
+    }
+    
+    .contactme p {font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    }
+    
+    .footer {width: 100%;
+    height: 30vh;
+    display: flex;
+    }
+    
+    .addrcont {width: 70%;
+    height: 30vh;
+    display: flex;
+    }
+    
+    .addr{ width: 32.5%;
+        height: 30vh;
+        margin-top: 15px;
+    }
+    
+    .addr li {color: black;
+    font-size: 18px;
+    margin-top: 22px;
+    list-style: none;
+    }
+    
+    .copyright {width: 30%;
+    height: 30vh;
+    }
+    
+    .copyright h1 {color: rgb(36, 35, 35);
+        font-size: 25px;
+        margin-top: 90px;
+        margin-left: 120px;
+    
+    }
+    
+    .copyright p {margin-left: 120px;}

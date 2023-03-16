@@ -1,0 +1,271 @@
+@media screen and (max-width: 600px) {
+    .headdiv {width: 100%;
+        height: 230vh;
+    } 
+  }
+
+ @media screen and (max-width: 600px) {
+ .nameandlogo {width: 100%;
+    height: 10vh;
+ } 
+}
+
+
+@media screen and (max-width: 600px) {
+  .slidshowcont {width: 97%;
+height: 30vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .logo {font-size: 40px;
+      
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .name {font-size: 30px;
+
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .slogan {font-size: 15px;
+margin-left: 100px;
+}  
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .slideshow1, .slideshow2, .slideshow3, .slideshow4 {
+      width: 100%;
+      height: 30vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+   .slideshow1 img, .slideshow2 img, .slideshow3 img, .slideshow4 img {
+       width: 100%;
+       height: 30vh;
+   }
+}
+
+
+@media screen and (max-width: 600px) {
+    .caption {width: 40%;
+height: 10vh;
+    }
+ }
+
+
+ @media screen and (max-width: 600px) {
+   .firstcap {font-size: 20px;
+margin-left: 0px;
+   }
+}
+
+
+@media screen and (max-width: 600px) {
+  .secondcap {font-size: 12px;
+margin-left: 0px;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+   .dotcont {width: 100px;
+height: 3vh;
+top: 85%;
+right: 7%;
+justify-content: unset;
+background-color: transparent;
+   } 
+}
+
+
+@media screen and (max-width: 600px) {
+    .dot1, .dot2, .dot3, .dot4 {
+        width: 20px;
+        height: 20px;
+        margin-top: 2px;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .navdiv {width: 100%;
+height: 5vh;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .navbtn {width: 15%;
+height: 5vh;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+   .navbtn a {width: 100%;
+height: 5vh;
+font-size: 12px;
+   } 
+}
+
+
+
+@media screen and (max-width: 600px) {
+  .companycore {width: 100%;
+height: 180vh;
+display: flex;
+flex-direction: column;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .prop {width: 100%;
+height: 50vh;
+margin-left: 0px;
+margin-top: 7vh;
+border-bottom: 2px solid white;
+  }  
+}
+
+
+
+
+
+@media screen and (max-width: 600px) {
+  .seconddiv {width: 100%;
+height: 255vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+ .first {width: 100%;
+height: 80vh;
+display: flex;
+flex-direction: column;
+ }   
+}
+
+@media screen and (max-width: 600px) {
+   .someword  {width: 100%;
+height: 50vh;
+   }
+}
+
+
+@media screen and (max-width: 600px) {
+ .testy {width: 100%;
+height: 30vh;
+ }   
+}
+
+
+@media screen and (max-width: 600px) {
+  .second {width: 100%;
+height: 174vh;
+display: flex;
+flex-direction: column;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .service, .about, .special {width: 100%;
+height: 58vh;
+margin-left: 0px;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+  .contactfoot {width: 100%;
+height: 130vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+    .contact {width: 100%;
+height: 15vh;
+display: flex;
+flex-direction: column;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .contactme {width: 100%;
+height: 5vh;
+border: none;
+border-bottom: 1px solid white;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+.contactme1 {display: none;
+}
+ } 
+ 
+ 
+ @media screen and (max-width: 600px) {
+  .contactme p {text-align: center;
+  }  
+}
+
+
+
+@media screen and (max-width: 600px) {
+   .footer {width: 100%;
+height: 100vh;
+display: flex;
+flex-direction: column;
+   } 
+}
+
+
+@media screen and (max-width: 600px) {
+   .addrcont {width: 100%;
+height: 90vh;
+display: flex;
+flex-direction: column;
+   } 
+}
+
+
+@media screen and (max-width: 600px) {
+  .addr {width: 100%;
+height: 30vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+ .addr li {
+font-size: 20px;
+margin-left: 65px;
+ }   
+}
+
+
+@media screen and (max-width: 600px) {
+  .copyright {width: 100%;
+height: 10vh;
+  }  
+}
+
+
+@media screen and (max-width: 600px) {
+   .copyright h1, .copyright p {margin-left: 80px;}
+}
